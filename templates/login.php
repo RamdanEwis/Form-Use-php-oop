@@ -1,5 +1,6 @@
 <?php
-require_once "../db.php";
+
+include  'incloudes/autoloader.inc.php';
 
 
 
